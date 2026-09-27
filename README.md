@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=ffffff&text=KATHIRVEL%20G&fontColor=d90429&fontSize=45&fontAlignY=45&desc=%5B%20SYSTEM%20ONLINE%20%5D%20%20%7C%20%20AI%20%2B%20IoT%20%2B%20FULL%20STACK&descAlignY=72&descSize=16&animation=fadeIn" width="100%" alt="KATHIRVEL G"/>
+<img src="./assets/terminal-header.svg" width="100%" alt="KATHIRVEL G terminal header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=700&color=D90429&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+KATHIRVEL_G;%24+status;%3E+BUILDING+SYSTEMS+THAT+MATTER;%24+mission;%3E+LEARN+%7C+BUILD+%7C+BREAK+%7C+FIX+%7C+REPEAT;%24+next;%3E+INITIALIZING+NEXT+PROJECT..." alt="Terminal typing animation"/>
+<img src="./assets/terminal-loop.svg" width="100%" alt="KVL3159H terminal identity"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KVL3159H&style=for-the-badge&color=D90429&label=PROFILE+SCANS)](https://github.com/KVL3159H)
-[![Followers](https://img.shields.io/github/followers/KVL3159H?style=for-the-badge&label=FOLLOWERS&labelColor=D90429&color=ffffff&logo=github&logoColor=ffffff)](https://github.com/KVL3159H?tab=followers)
-[![Stars](https://img.shields.io/github/stars/KVL3159H?style=for-the-badge&label=STARS&labelColor=D90429&color=ffffff&logo=github&logoColor=ffffff)](https://github.com/KVL3159H)
+[![GitHub](https://img.shields.io/badge/GITHUB-KVL3159H-D90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KVL3159H)
+[![Followers](https://img.shields.io/github/followers/KVL3159H?style=for-the-badge&label=FOLLOWERS&labelColor=D90429&color=ffffff&logo=github&logoColor=white)](https://github.com/KVL3159H?tab=followers)
+[![Stars](https://img.shields.io/github/stars/KVL3159H?style=for-the-badge&label=STARS&labelColor=D90429&color=ffffff&logo=github&logoColor=white)](https://github.com/KVL3159H?tab=repositories)
 
 </div>
 
@@ -237,31 +237,24 @@ Full-screen cinematic countdown interface for CTF and event environments.
 
 ---
 
-# `root@kvl3159h:~# github --analytics`
+# `root@kvl3159h:~# github --status`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=KVL3159H&show_icons=true&hide_border=true&bg_color=ffffff&title_color=d90429&text_color=24292f&icon_color=d90429&ring_color=d90429" alt="GitHub stats"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVL3159H&layout=compact&hide_border=true&bg_color=ffffff&title_color=d90429&text_color=24292f" alt="Top languages"/>
+<img src="./assets/system-status.svg" width="100%" alt="GitHub system status"/>
 
 </div>
 
-<div align="center">
+```text
+PROFILE        : KVL3159H
+PUBLIC MODE    : ENABLED
+PROJECT MODE   : ACTIVE
+DOCUMENTATION  : IMPROVING
+OPEN SOURCE    : EXPANDING
 
-<img src="https://streak-stats.demolab.com?user=KVL3159H&hide_border=true&background=FFFFFF&ring=D90429&fire=D90429&currStreakLabel=D90429&sideNums=24292F&currStreakNum=D90429&dates=6E7781&sideLabels=24292F" alt="GitHub streak"/>
-
-</div>
-
----
-
-# `root@kvl3159h:~# ./activity --live`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KVL3159H&bg_color=ffffff&color=d90429&line=d90429&point=24292f&area=true&area_color=ffd6dc&hide_border=true" width="96%" alt="GitHub activity graph"/>
-
-</div>
+> Native GitHub contribution activity is visible directly below this profile README.
+> Repositories: https://github.com/KVL3159H?tab=repositories
+```
 
 ---
 
@@ -355,6 +348,6 @@ next_project=always
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=ffffff&text=%3E_%20END%20OF%20TRANSMISSION&fontColor=d90429&fontSize=18&animation=fadeIn" width="100%" alt="End of transmission"/>
+<img src="./assets/terminal-footer.svg" width="100%" alt="End of transmission"/>
 
 </div>
