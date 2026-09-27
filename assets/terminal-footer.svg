@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <rect width="1200" height="120" fill="#ffffff"/>
+  <line x1="24" y1="20" x2="1176" y2="20" stroke="#d90429" stroke-width="2"/>
+  <text x="600" y="60" text-anchor="middle" font-family="monospace" font-size="20" fill="#d90429">&gt;_ END OF TRANSMISSION</text>
+  <text x="600" y="91" text-anchor="middle" font-family="monospace" font-size="16" fill="#57606a">There is no final build. There is only the next version.</text>
+</svg>
