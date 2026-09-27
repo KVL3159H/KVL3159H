@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <rect width="1200" height="190" fill="#ffffff"/>
+  <rect x="24" y="18" width="1152" height="154" rx="14" fill="#fffafa" stroke="#d90429" stroke-width="2"/>
+  <text x="54" y="55" font-family="monospace" font-size="20" fill="#d90429">$ whoami</text>
+  <text x="54" y="87" font-family="monospace" font-size="20" fill="#1f2328">&gt; KVL3159H / KATHIRVEL_G</text>
+  <text x="54" y="119" font-family="monospace" font-size="20" fill="#d90429">$ mission</text>
+  <text x="54" y="151" font-family="monospace" font-size="20" fill="#1f2328">&gt; LEARN | BUILD | BREAK | FIX | REPEAT</text>
+  <rect x="525" y="136" width="12" height="20" fill="#d90429">
+    <animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
