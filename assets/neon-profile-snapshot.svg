@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F0FF"/><stop offset=".5" stop-color="#00FF9C"/><stop offset="1" stop-color="#BD00FF"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="230" fill="#ffffff"/>
+<text x="34" y="34" font-family="monospace" font-size="20" font-weight="700" fill="#111827">SYSTEM SNAPSHOT // 27 SEP 2026</text>
+<rect x="34" y="48" width="1132" height="3" fill="url(#g)"/>
+<g font-family="monospace">
+  <rect x="34" y="78" width="250" height="110" rx="16" fill="#ffffff" stroke="#00F0FF" stroke-width="2"/>
+  <text x="159" y="125" text-anchor="middle" font-size="34" font-weight="800" fill="#00A8B5">9</text>
+  <text x="159" y="157" text-anchor="middle" font-size="14" fill="#4B5563">PUBLIC REPOSITORIES</text>
+
+  <rect x="306" y="78" width="250" height="110" rx="16" fill="#ffffff" stroke="#00FF9C" stroke-width="2"/>
+  <text x="431" y="125" text-anchor="middle" font-size="34" font-weight="800" fill="#00A86B">20</text>
+  <text x="431" y="157" text-anchor="middle" font-size="14" fill="#4B5563">MERGED PULL REQUESTS</text>
+
+  <rect x="578" y="78" width="250" height="110" rx="16" fill="#ffffff" stroke="#FF6B00" stroke-width="2"/>
+  <text x="703" y="125" text-anchor="middle" font-size="34" font-weight="800" fill="#D45500">6</text>
+  <text x="703" y="157" text-anchor="middle" font-size="14" fill="#4B5563">FEATURED PROJECTS</text>
+
+  <rect x="850" y="78" width="316" height="110" rx="16" fill="#ffffff" stroke="#BD00FF" stroke-width="2"/>
+  <circle cx="894" cy="121" r="8" fill="#00FF9C" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.35;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="922" y="126" font-size="26" font-weight="800" fill="#111827">ACTIVE</text>
+  <text x="922" y="157" font-size="14" fill="#4B5563">BUILD • DOCUMENT • SHIP</text>
+</g>
+</svg>
