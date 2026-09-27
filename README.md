@@ -78,7 +78,7 @@
 
 </div>
 
-> **Live profile snapshot:** 9 public repositories · 26 merged pull requests · 6 featured projects.  
+> **Live profile snapshot:** 9 public repositories · 27 merged pull requests · 6 featured projects.  
 > GitHub's native contribution graph and achievement badges remain visible directly on the profile.
 
 ---
@@ -240,7 +240,7 @@ INPUT → COMMUNICATION / DATA LAYER → PROCESSING → OPERATIONAL OUTPUT
 [AWARD       ] Robothon 2K24 — ₹5,000 Cash Prize
 [AI EVENT    ] Wonders of AI 2.0 — Top 8 / 50
 [LEADERSHIP  ] CTF Organizer / Coordinator
-[GITHUB      ] 26 merged pull requests in current profile snapshot
+[GITHUB      ] 27 merged pull requests in current profile snapshot
 ```
 
 These represent **technical competition exposure, project execution, teamwork, coordination, and consistent GitHub contribution**.
