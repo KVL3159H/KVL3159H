@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610">
+<rect width="1200" height="610" fill="#ffffff"/>
+<style>
+.h{font:700 20px 'Segoe UI',Arial,sans-serif;fill:#d90429}
+.t{font:600 16px 'Segoe UI',Arial,sans-serif;fill:#24292f}
+.s{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#57606a}
+.i{font:700 14px 'Segoe UI',Arial,sans-serif;fill:#ffffff}
+.card{fill:#ffffff;stroke:#e6e8eb;stroke-width:1.5}
+.ico{fill:#d90429}
+</style>
+<text x="30" y="36" class="h">TECH ARSENAL // ACTIVE MODULES</text>
+<line x1="30" y1="50" x2="1170" y2="50" stroke="#d90429" stroke-width="2"/>
+
+<text x="30" y="88" class="h">LANGUAGES</text>
+<g transform="translate(30,105)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">PY</text><text class="t" x="70" y="34">Python</text><text class="s" x="70" y="55">automation • backend</text>
+</g>
+<g transform="translate(250,105)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">JS</text><text class="t" x="70" y="34">JavaScript</text><text class="s" x="70" y="55">web • interaction</text>
+</g>
+<g transform="translate(470,105)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">TS</text><text class="t" x="70" y="34">TypeScript</text><text class="s" x="70" y="55">typed frontend</text>
+</g>
+<g transform="translate(690,105)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">H5</text><text class="t" x="70" y="34">HTML5</text><text class="s" x="70" y="55">semantic UI</text>
+</g>
+<g transform="translate(910,105)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">C3</text><text class="t" x="70" y="34">CSS3</text><text class="s" x="70" y="55">responsive design</text>
+</g>
+
+<text x="30" y="215" class="h">FRONTEND + BACKEND</text>
+<g transform="translate(30,232)">
+ <rect class="card" width="205" height="70" rx="12"/><circle class="ico" cx="35" cy="35" r="21"/><text class="i" x="35" y="40" text-anchor="middle">R</text><text class="t" x="70" y="34">React</text><text class="s" x="70" y="55">component UI</text>
+</g>
+<g transform="translate(250,232)">
+ <rect class="card" width="205" height="70" rx="12"/><circle class="ico" cx="35" cy="35" r="21"/><text class="i" x="35" y="40" text-anchor="middle">N</text><text class="t" x="70" y="34">Next.js</text><text class="s" x="70" y="55">web applications</text>
+</g>
+<g transform="translate(470,232)">
+ <rect class="card" width="205" height="70" rx="12"/><polygon class="ico" points="35,12 56,24 56,46 35,58 14,46 14,24"/><text class="i" x="35" y="40" text-anchor="middle">Nd</text><text class="t" x="70" y="34">Node.js</text><text class="s" x="70" y="55">services • APIs</text>
+</g>
+<g transform="translate(690,232)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">Ex</text><text class="t" x="70" y="34">Express</text><text class="s" x="70" y="55">REST backend</text>
+</g>
+<g transform="translate(910,232)">
+ <rect class="card" width="205" height="70" rx="12"/><polygon class="ico" points="35,12 56,55 14,55"/><text class="i" x="35" y="45" text-anchor="middle">F</text><text class="t" x="70" y="34">Firebase</text><text class="s" x="70" y="55">auth • realtime data</text>
+</g>
+
+<text x="30" y="342" class="h">IoT + EMBEDDED + DATA</text>
+<g transform="translate(30,359)">
+ <rect class="card" width="205" height="70" rx="12"/><circle class="ico" cx="35" cy="35" r="21"/><text class="i" x="35" y="40" text-anchor="middle">Pi</text><text class="t" x="70" y="34">Raspberry Pi</text><text class="s" x="70" y="55">edge computing</text>
+</g>
+<g transform="translate(250,359)">
+ <rect class="card" width="205" height="70" rx="12"/><circle class="ico" cx="35" cy="35" r="21"/><text class="i" x="35" y="40" text-anchor="middle">A</text><text class="t" x="70" y="34">Arduino</text><text class="s" x="70" y="55">prototyping</text>
+</g>
+<g transform="translate(470,359)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">32</text><text class="t" x="70" y="34">ESP32</text><text class="s" x="70" y="55">wireless MCU</text>
+</g>
+<g transform="translate(690,359)">
+ <rect class="card" width="205" height="70" rx="12"/><path class="ico" d="M14 50 L14 35 A21 21 0 0 1 56 35 L56 50 Z"/><text class="i" x="35" y="43" text-anchor="middle">MQ</text><text class="t" x="70" y="34">MQTT</text><text class="s" x="70" y="55">device messaging</text>
+</g>
+<g transform="translate(910,359)">
+ <rect class="card" width="205" height="70" rx="12"/><ellipse class="ico" cx="35" cy="24" rx="21" ry="10"/><rect class="ico" x="14" y="24" width="42" height="25"/><ellipse class="ico" cx="35" cy="49" rx="21" ry="10"/><text class="i" x="35" y="40" text-anchor="middle">DB</text><text class="t" x="70" y="34">SQL</text><text class="s" x="70" y="55">structured data</text>
+</g>
+
+<text x="30" y="469" class="h">TOOLS</text>
+<g transform="translate(30,486)">
+ <rect class="card" width="205" height="70" rx="12"/><polygon class="ico" points="35,12 58,35 35,58 12,35"/><text class="i" x="35" y="40" text-anchor="middle">G</text><text class="t" x="70" y="34">Git</text><text class="s" x="70" y="55">version control</text>
+</g>
+<g transform="translate(250,486)">
+ <rect class="card" width="205" height="70" rx="12"/><circle class="ico" cx="35" cy="35" r="21"/><text class="i" x="35" y="40" text-anchor="middle">GH</text><text class="t" x="70" y="34">GitHub</text><text class="s" x="70" y="55">collaboration</text>
+</g>
+<g transform="translate(470,486)">
+ <rect class="card" width="205" height="70" rx="12"/><polygon class="ico" points="15,35 50,13 58,19 58,51 50,57"/><text class="i" x="36" y="40" text-anchor="middle">VS</text><text class="t" x="70" y="34">VS Code</text><text class="s" x="70" y="55">development</text>
+</g>
+<g transform="translate(690,486)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">API</text><text class="t" x="70" y="34">REST APIs</text><text class="s" x="70" y="55">integration</text>
+</g>
+<g transform="translate(910,486)">
+ <rect class="card" width="205" height="70" rx="12"/><rect class="ico" x="14" y="14" width="42" height="42" rx="9"/><text class="i" x="35" y="41" text-anchor="middle">AI</text><text class="t" x="70" y="34">AI APIs</text><text class="s" x="70" y="55">intelligent features</text>
+</g>
+</svg>
