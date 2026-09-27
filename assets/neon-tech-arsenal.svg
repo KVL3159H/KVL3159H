@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F0FF"/><stop offset=".5" stop-color="#00FF9C"/><stop offset="1" stop-color="#BD00FF"/></linearGradient>
+</defs>
+<rect width="1200" height="650" fill="#ffffff"/>
+<style>
+  .head{font:700 20px monospace;fill:#111827}
+  .cat{font:700 17px monospace;fill:#111827}
+  .name{font:700 15px 'Segoe UI',Arial,sans-serif;fill:#111827}
+  .sub{font:500 12px 'Segoe UI',Arial,sans-serif;fill:#6B7280}
+  .card{fill:#ffffff;stroke:#E5E7EB;stroke-width:1.5}
+  .mono{font:800 14px monospace;fill:#ffffff}
+</style>
+<text x="34" y="34" class="head">TECH_ARSENAL.SH // VERIFIED MODULES</text>
+<rect x="34" y="48" width="1132" height="3" fill="url(#g)"/>
+
+<text x="34" y="88" class="cat">[ LANGUAGES ]</text>
+<g transform="translate(34,106)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#00A8B5"/><text x="36" y="42" text-anchor="middle" class="mono">PY</text><text x="72" y="32" class="name">Python</text><text x="72" y="53" class="sub">automation • backend</text>
+</g>
+<g transform="translate(254,106)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#111827"/><text x="36" y="42" text-anchor="middle" class="mono">JS</text><text x="72" y="32" class="name">JavaScript</text><text x="72" y="53" class="sub">web • interaction</text>
+</g>
+<g transform="translate(474,106)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#3178C6"/><text x="36" y="42" text-anchor="middle" class="mono">TS</text><text x="72" y="32" class="name">TypeScript</text><text x="72" y="53" class="sub">typed applications</text>
+</g>
+<g transform="translate(694,106)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#E34F26"/><text x="36" y="42" text-anchor="middle" class="mono">H5</text><text x="72" y="32" class="name">HTML5</text><text x="72" y="53" class="sub">semantic UI</text>
+</g>
+<g transform="translate(914,106)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#1572B6"/><text x="36" y="42" text-anchor="middle" class="mono">C3</text><text x="72" y="32" class="name">CSS3</text><text x="72" y="53" class="sub">responsive styling</text>
+</g>
+
+<text x="34" y="222" class="cat">[ FRONTEND / BACKEND ]</text>
+<g transform="translate(34,240)">
+  <rect class="card" width="205" height="72" rx="14"/><circle cx="36" cy="36" r="22" fill="#00F0FF"/><text x="36" y="42" text-anchor="middle" class="mono">R</text><text x="72" y="32" class="name">React</text><text x="72" y="53" class="sub">component systems</text>
+</g>
+<g transform="translate(254,240)">
+  <rect class="card" width="205" height="72" rx="14"/><circle cx="36" cy="36" r="22" fill="#111827"/><text x="36" y="42" text-anchor="middle" class="mono">N</text><text x="72" y="32" class="name">Next.js</text><text x="72" y="53" class="sub">web applications</text>
+</g>
+<g transform="translate(474,240)">
+  <rect class="card" width="205" height="72" rx="14"/><polygon points="36,12 58,24 58,48 36,60 14,48 14,24" fill="#00A86B"/><text x="36" y="42" text-anchor="middle" class="mono">Nd</text><text x="72" y="32" class="name">Node.js</text><text x="72" y="53" class="sub">services • APIs</text>
+</g>
+<g transform="translate(694,240)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#6B7280"/><text x="36" y="42" text-anchor="middle" class="mono">Ex</text><text x="72" y="32" class="name">Express</text><text x="72" y="53" class="sub">REST backend</text>
+</g>
+<g transform="translate(914,240)">
+  <rect class="card" width="205" height="72" rx="14"/><polygon points="36,11 60,58 12,58" fill="#FF6B00"/><text x="36" y="47" text-anchor="middle" class="mono">F</text><text x="72" y="32" class="name">Firebase</text><text x="72" y="53" class="sub">auth • realtime data</text>
+</g>
+
+<text x="34" y="356" class="cat">[ HARDWARE / IoT / DATA ]</text>
+<g transform="translate(34,374)">
+  <rect class="card" width="205" height="72" rx="14"/><circle cx="36" cy="36" r="22" fill="#BD00FF"/><text x="36" y="42" text-anchor="middle" class="mono">Pi</text><text x="72" y="32" class="name">Raspberry Pi</text><text x="72" y="53" class="sub">edge computing</text>
+</g>
+<g transform="translate(254,374)">
+  <rect class="card" width="205" height="72" rx="14"/><circle cx="36" cy="36" r="22" fill="#00979D"/><text x="36" y="42" text-anchor="middle" class="mono">A</text><text x="72" y="32" class="name">Arduino</text><text x="72" y="53" class="sub">prototyping</text>
+</g>
+<g transform="translate(474,374)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#E7352C"/><text x="36" y="42" text-anchor="middle" class="mono">32</text><text x="72" y="32" class="name">ESP32</text><text x="72" y="53" class="sub">wireless MCU</text>
+</g>
+<g transform="translate(694,374)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="22" fill="#00A8B5"/><text x="36" y="42" text-anchor="middle" class="mono">MQ</text><text x="72" y="32" class="name">MQTT</text><text x="72" y="53" class="sub">device messaging</text>
+</g>
+<g transform="translate(914,374)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#4479A1"/><text x="36" y="42" text-anchor="middle" class="mono">DB</text><text x="72" y="32" class="name">SQL</text><text x="72" y="53" class="sub">structured data</text>
+</g>
+
+<text x="34" y="490" class="cat">[ TOOLS / INTEGRATION ]</text>
+<g transform="translate(34,508)">
+  <rect class="card" width="205" height="72" rx="14"/><polygon points="36,12 60,36 36,60 12,36" fill="#F05032"/><text x="36" y="42" text-anchor="middle" class="mono">G</text><text x="72" y="32" class="name">Git</text><text x="72" y="53" class="sub">version control</text>
+</g>
+<g transform="translate(254,508)">
+  <rect class="card" width="205" height="72" rx="14"/><circle cx="36" cy="36" r="22" fill="#181717"/><text x="36" y="42" text-anchor="middle" class="mono">GH</text><text x="72" y="32" class="name">GitHub</text><text x="72" y="53" class="sub">collaboration</text>
+</g>
+<g transform="translate(474,508)">
+  <rect class="card" width="205" height="72" rx="14"/><polygon points="14,36 53,12 60,18 60,54 53,60" fill="#007ACC"/><text x="36" y="42" text-anchor="middle" class="mono">VS</text><text x="72" y="32" class="name">VS Code</text><text x="72" y="53" class="sub">development</text>
+</g>
+<g transform="translate(694,508)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#00FF9C"/><text x="36" y="42" text-anchor="middle" class="mono">API</text><text x="72" y="32" class="name">REST APIs</text><text x="72" y="53" class="sub">integration</text>
+</g>
+<g transform="translate(914,508)">
+  <rect class="card" width="205" height="72" rx="14"/><rect x="14" y="14" width="44" height="44" rx="10" fill="#BD00FF"/><text x="36" y="42" text-anchor="middle" class="mono">AI</text><text x="72" y="32" class="name">AI APIs</text><text x="72" y="53" class="sub">intelligent features</text>
+</g>
+</svg>
