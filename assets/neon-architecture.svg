@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="545" viewBox="0 0 1200 545">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F0FF"/><stop offset=".5" stop-color="#00FF9C"/><stop offset="1" stop-color="#BD00FF"/></linearGradient>
+  <marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#00A8B5"/></marker>
+</defs>
+<rect width="1200" height="545" fill="#ffffff"/>
+<style>
+  .h{font:700 20px monospace;fill:#111827}.t{font:700 15px 'Segoe UI',Arial,sans-serif;fill:#111827}.s{font:500 13px 'Segoe UI',Arial,sans-serif;fill:#6B7280}
+  .b1{fill:#fff;stroke:#00F0FF;stroke-width:2}.b2{fill:#fff;stroke:#00FF9C;stroke-width:2}.b3{fill:#fff;stroke:#FF6B00;stroke-width:2}.b4{fill:#fff;stroke:#BD00FF;stroke-width:2}
+  .a{stroke:#00A8B5;stroke-width:2;fill:none;marker-end:url(#a)}
+</style>
+<text x="34" y="34" class="h">ARCHITECTURE.EXE // SYSTEM FLOW</text>
+<rect x="34" y="48" width="1132" height="3" fill="url(#g)"/>
+
+<text x="34" y="88" class="h">01 // AmbulanceLaneFree</text>
+<g transform="translate(34,106)">
+  <rect class="b1" width="215" height="72" rx="14"/><text x="107" y="30" text-anchor="middle" class="t">Android GPS</text><text x="107" y="52" text-anchor="middle" class="s">driver telemetry</text>
+  <path class="a" d="M230 36 H285"/>
+  <rect class="b2" x="300" width="205" height="72" rx="14"/><text x="402" y="30" text-anchor="middle" class="t">MQTT</text><text x="402" y="52" text-anchor="middle" class="s">validated messages</text>
+  <path class="a" d="M520 36 H575"/>
+  <rect class="b3" x="590" width="215" height="72" rx="14"/><text x="697" y="30" text-anchor="middle" class="t">Raspberry Pi</text><text x="697" y="52" text-anchor="middle" class="s">priority + safety FSM</text>
+  <path class="a" d="M820 36 H875"/>
+  <rect class="b4" x="890" width="245" height="72" rx="14"/><text x="1012" y="30" text-anchor="middle" class="t">Junction Control</text><text x="1012" y="52" text-anchor="middle" class="s">safe signal transitions</text>
+</g>
+
+<text x="34" y="232" class="h">02 // 360 Waste Management</text>
+<g transform="translate(34,250)">
+  <rect class="b4" width="230" height="72" rx="14"/><text x="115" y="30" text-anchor="middle" class="t">5 Role Dashboards</text><text x="115" y="52" text-anchor="middle" class="s">role-based experience</text>
+  <path class="a" d="M245 36 H300"/>
+  <rect class="b1" x="315" width="205" height="72" rx="14"/><text x="417" y="30" text-anchor="middle" class="t">React Router</text><text x="417" y="52" text-anchor="middle" class="s">protected flows</text>
+  <path class="a" d="M535 36 H590"/>
+  <rect class="b2" x="605" width="205" height="72" rx="14"/><text x="707" y="30" text-anchor="middle" class="t">Firebase</text><text x="707" y="52" text-anchor="middle" class="s">auth + data</text>
+  <path class="a" d="M825 36 H880"/>
+  <rect class="b3" x="895" width="240" height="72" rx="14"/><text x="1015" y="30" text-anchor="middle" class="t">Gemini + Maps</text><text x="1015" y="52" text-anchor="middle" class="s">AI + route intelligence</text>
+</g>
+
+<text x="34" y="376" class="h">03 // Waste-to-Energy</text>
+<g transform="translate(34,394)">
+  <rect class="b3" width="230" height="72" rx="14"/><text x="115" y="30" text-anchor="middle" class="t">Sensors / AI</text><text x="115" y="52" text-anchor="middle" class="s">telemetry + classification</text>
+  <path class="a" d="M245 36 H300"/>
+  <rect class="b2" x="315" width="205" height="72" rx="14"/><text x="417" y="30" text-anchor="middle" class="t">Firebase RTDB</text><text x="417" y="52" text-anchor="middle" class="s">live stream</text>
+  <path class="a" d="M535 36 H590"/>
+  <rect class="b1" x="605" width="205" height="72" rx="14"/><text x="707" y="30" text-anchor="middle" class="t">React Dashboard</text><text x="707" y="52" text-anchor="middle" class="s">operational UI</text>
+  <path class="a" d="M825 36 H880"/>
+  <rect class="b4" x="895" width="240" height="72" rx="14"/><text x="1015" y="30" text-anchor="middle" class="t">Analytics + Alerts</text><text x="1015" y="52" text-anchor="middle" class="s">trends • actions</text>
+</g>
+</svg>
