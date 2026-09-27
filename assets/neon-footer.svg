@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F0FF"/><stop offset=".5" stop-color="#00FF9C"/><stop offset="1" stop-color="#BD00FF"/></linearGradient></defs>
+<rect width="1200" height="140" fill="#ffffff"/>
+<rect x="34" y="18" width="1132" height="3" fill="url(#g)"/>
+<text x="600" y="62" text-anchor="middle" font-family="monospace" font-size="21" font-weight="700" fill="#111827">&gt;_ END OF TRANSMISSION</text>
+<text x="600" y="94" text-anchor="middle" font-family="monospace" font-size="16" fill="#6B7280">There is no final build. There is only the next version.</text>
+<rect x="887" y="106" width="12" height="20" fill="#00F0FF"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
