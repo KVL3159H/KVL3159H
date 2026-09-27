@@ -2,41 +2,13 @@
 
 <img src="./assets/terminal-header.svg" width="100%" alt="KATHIRVEL G terminal header"/>
 
-<img src="./assets/terminal-loop.svg" width="100%" alt="KVL3159H terminal identity"/>
+### Final-Year Engineering Developer · Full-Stack · AI/ML · IoT · Embedded Systems
 
-<br/>
+I build practical software and connected systems, with an emphasis on **real-world problem solving, system integration, documentation, and measurable project outcomes**.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-KVL3159H-D90429?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KVL3159H)
-[![Followers](https://img.shields.io/github/followers/KVL3159H?style=for-the-badge&label=FOLLOWERS&labelColor=D90429&color=ffffff&logo=github&logoColor=white)](https://github.com/KVL3159H?tab=followers)
-[![Stars](https://img.shields.io/github/stars/KVL3159H?style=for-the-badge&label=STARS&labelColor=D90429&color=ffffff&logo=github&logoColor=white)](https://github.com/KVL3159H?tab=repositories)
+[GitHub](https://github.com/KVL3159H) · [Repositories](https://github.com/KVL3159H?tab=repositories)
 
 </div>
-
----
-
-# `root@kvl3159h:~# boot --profile`
-
-```text
-[BOOT] KVL Developer Environment
-[ OK ] Loading problem-solving engine
-[ OK ] Loading full-stack toolkit
-[ OK ] Loading AI modules
-[ OK ] Loading IoT / embedded interface
-[ OK ] Loading project architecture
-[ OK ] Loading curiosity
-[ OK ] Loading persistence
-[ !! ] Coffee level below recommended threshold
-[ OK ] Fallback mode enabled
-
-USER      : KATHIRVEL G
-HANDLE    : KVL3159H
-STATUS    : ONLINE
-MODE      : BUILD
-ACCESS    : OPEN TO COLLABORATION
-UPTIME    : CONTINUOUS LEARNING
-
-> SYSTEM READY
-```
 
 ---
 
@@ -45,307 +17,218 @@ UPTIME    : CONTINUOUS LEARNING
 ```yaml
 name: "Kathirvel G"
 username: "KVL3159H"
-role: "Developer | Project Builder"
-location: "India"
+status: "Building, testing, documenting and shipping projects"
 
-focus:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Internet of Things
-  - Embedded Systems
+core_focus:
+  - Full-Stack Development
+  - AI / ML Integration
+  - IoT & Embedded Systems
   - Real-Time Applications
-  - Automation
+  - System Design
   - Engineering Prototypes
 
-mission: >
-  Convert ideas into systems that solve practical problems.
+engineering_style:
+  - solve practical problems
+  - connect software with hardware
+  - document systems clearly
+  - improve through testing and iteration
 ```
-
----
-
-# `root@kvl3159h:~# cat mission.log`
-
-```text
-╔════════════════════════════════════════════════════════════════╗
-║                     CURRENT OBJECTIVE                          ║
-║                                                                ║
-║        BUILD → TEST → IMPROVE → SHIP → LEARN → REPEAT         ║
-╚════════════════════════════════════════════════════════════════╝
-
-FULL STACK          █████████░░  ACTIVE
-AI / ML             ████████░░░  ACTIVE
-IoT / EMBEDDED      ████████░░░  ACTIVE
-SYSTEM DESIGN       ███████░░░░  LOADING
-OPEN SOURCE         ███████░░░░  EXPANDING
-DOCUMENTATION       █████████░░  ACTIVE
-PROBLEM SOLVING     ████████░░░  ACTIVE
-
-NEXT CHECKPOINT:
-> Build stronger systems.
-> Write cleaner code.
-> Ship better projects.
-> Contribute more.
-```
-
----
-
-# `root@kvl3159h:~# ls ./featured-projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚑 [AmbulanceLaneFree](https://github.com/KVL3159H/AmbulanceLaneFree)
-
-```text
-TYPE    : Smart Emergency System
-STACK   : Python / Android / IoT
-STATUS  : ACTIVE
-MISSION : Emergency traffic priority
-```
-
-Smart emergency-priority traffic project focused on ambulance movement, intelligent junction control, telemetry, and system integration.
-
-</td>
-<td width="50%" valign="top">
-
-### ♻️ [360 Waste Management](https://github.com/KVL3159H/360-waste-management)
-
-```text
-TYPE    : Smart Waste Platform
-STACK   : React / TypeScript / Firebase
-STATUS  : ACTIVE
-MISSION : Data-driven waste management
-```
-
-Role-based waste-management platform with dashboards, QR workflows, analytics, mapping, and AI-assisted features.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [Waste-to-Energy](https://github.com/KVL3159H/Waste-to-Energy)
-
-```text
-TYPE    : IoT Monitoring Dashboard
-STACK   : React / Firebase / Analytics
-STATUS  : ACTIVE
-MISSION : Waste → useful energy insights
-```
-
-Telemetry and analytics dashboard for monitoring waste-to-energy systems, environmental metrics, alerts, and operational data.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 [earth-growth-garden-main](https://github.com/KVL3159H/earth-growth-garden-main)
-
-```text
-TYPE    : Real-Time Web Experience
-STACK   : React / Socket.IO / Express
-STATUS  : EXPERIMENT
-MISSION : Visualize collective growth
-```
-
-Interactive digital garden experiment using real-time communication and visual progress.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📄 [Research Paper Review System](https://github.com/KVL3159H/RESEARCH-PAPER-SUBMISSION---REVIEW-SYSTEM)
-
-```text
-TYPE    : Academic Workflow System
-STACK   : Web / SQL
-STATUS  : BUILT
-MISSION : Simplify peer-review workflow
-```
-
-Submission and peer-review workflow for authors, reviewers, and editors.
-
-</td>
-<td width="50%" valign="top">
-
-### ⏳ [Squid Game Countdown](https://github.com/KVL3159H/squid-game-countdown-clocker)
-
-```text
-TYPE    : Cinematic Event UI
-STACK   : Next.js / React / TypeScript
-STATUS  : BUILT
-MISSION : Immersive countdown experience
-```
-
-Full-screen cinematic countdown interface for CTF and event environments.
-
-</td>
-</tr>
-</table>
-
----
-
-# `root@kvl3159h:~# ./tech_arsenal.sh`
-
-### `[ LANGUAGES ]`
-
-<p>
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=D90429"/>
-</p>
-
-### `[ FRONTEND ]`
-
-<p>
-<img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=D90429"/>
-</p>
-
-### `[ BACKEND / DATA ]`
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=D90429"/>
-</p>
-
-### `[ HARDWARE / IoT ]`
-
-<p>
-<img src="https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberrypi&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/ESP32-ffffff?style=for-the-badge&logo=espressif&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/MQTT-ffffff?style=for-the-badge&logo=eclipsemosquitto&logoColor=D90429"/>
-</p>
-
-### `[ TOOLS ]`
-
-<p>
-<img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=D90429"/>
-<img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=D90429"/>
-</p>
-
----
-
-# `root@kvl3159h:~# github --status`
 
 <div align="center">
 
-<img src="./assets/system-status.svg" width="100%" alt="GitHub system status"/>
+<img src="./assets/profile-snapshot.svg" width="100%" alt="KVL3159H profile snapshot"/>
 
 </div>
 
+> Snapshot values are based on the current profile as of **27 Sep 2026**. GitHub's native contribution graph and achievements remain visible on the profile itself.
+
+---
+
+# `root@kvl3159h:~# ls ./featured-projects --proof`
+
+## 🚑 [AmbulanceLaneFree](https://github.com/KVL3159H/AmbulanceLaneFree)
+
+**Problem** — Emergency vehicles can lose critical time at traffic junctions.
+
+**What I built** — A smart emergency-priority prototype combining Android GPS telemetry, MQTT communication, a Raspberry Pi control layer, safe signal-state logic, and a multi-ambulance priority queue.
+
+**Tech** — Python · PySide6 · Android/Kotlin · MQTT · SQLite · Raspberry Pi
+
+**My role** — System integration, application logic, junction-control workflow, telemetry pipeline, UI/documentation.
+
+**Technical proof** — Four-way junction model, mobile GPS flow, validation logic, fail-safe state transitions, multi-ambulance prioritization, Windows/Raspberry Pi software.
+
+---
+
+## ♻️ [360 Waste Management](https://github.com/KVL3159H/360-waste-management)
+
+**Problem** — Waste operations need different views for households, collectors, officers, administrators, and departments.
+
+**What I built** — A multi-role waste-management platform with protected dashboards, QR workflows, route maps, smart-bin views, analytics, and AI-assisted features.
+
+**Tech** — React · TypeScript · Vite · Firebase · Gemini · Leaflet · Recharts
+
+**My role** — Front-end architecture, role workflows, dashboard design, AI/map integration, documentation.
+
+**Technical proof** — **5 user-role experiences** in one application plus QR, mapping, analytics, and AI-assisted workflows.
+
+---
+
+## ⚡ [Waste-to-Energy](https://github.com/KVL3159H/Waste-to-Energy)
+
+**Problem** — Operational sensor data needs to be understandable quickly.
+
+**What I built** — A monitoring dashboard for live telemetry, energy metrics, classification data, alerts, historical analytics, and carbon-offset estimates.
+
+**Tech** — React · Firebase Realtime Database · Recharts · JavaScript
+
+**My role** — Dashboard architecture, realtime data flow, analytics presentation, operational UI.
+
+**Technical proof** — **4 main operational views:** Telemetry, Analytics, AI Vision, and Alerts.
+
+---
+
+## 📄 [Research Paper Submission & Review System](https://github.com/KVL3159H/RESEARCH-PAPER-SUBMISSION---REVIEW-SYSTEM)
+
+**Problem** — Academic paper review involves multiple users and state transitions.
+
+**What I built** — A structured workflow prototype for authors, reviewers, and editors covering submission, reviewer assignment, scoring, feedback, and final decisions.
+
+**Tech** — HTML · CSS · JavaScript · SQL
+
+**Technical proof** — **3-role workflow:** Author → Reviewer → Editor.
+
+---
+
+## ⏳ [Squid Game Countdown](https://github.com/KVL3159H/squid-game-countdown-clocker)
+
+**Problem** — Timed CTF/event environments need a visually strong countdown experience.
+
+**What I built** — A full-screen cinematic countdown UI with background rotation, warning states, final-phase effects, and fullscreen controls.
+
+**Tech** — Next.js · React · TypeScript
+
+**Technical proof** — **2-hour countdown**, **30 rotating visual assets**, danger-mode behavior, fullscreen event flow.
+
+---
+
+## 🌱 [Earth Growth Garden](https://github.com/KVL3159H/earth-growth-garden-main)
+
+**Problem** — Shared participation can feel abstract without visible feedback.
+
+**What I built** — A collaborative digital-garden experience where contribution events update shared state in real time.
+
+**Tech** — React · TypeScript · Express · Socket.IO · Vite
+
+**Technical proof** — Real-time multi-client state updates using Socket.IO.
+
+---
+
+# `root@kvl3159h:~# cat achievements.log`
+
 ```text
-PROFILE        : KVL3159H
-PUBLIC MODE    : ENABLED
-PROJECT MODE   : ACTIVE
-DOCUMENTATION  : IMPROVING
-OPEN SOURCE    : EXPANDING
+[ACHIEVEMENT] Smart India Hackathon Finalist
+[ACHIEVEMENT] Robothon 2K24 — ₹5,000 Cash Prize
+[ACHIEVEMENT] Wonders of AI 2.0 — Top 8 / 50
+[EXPERIENCE ] CTF Organizer / Coordinator
+[PROFILE    ] 20 merged GitHub pull requests in current snapshot
+```
 
-> Native GitHub contribution activity is visible directly below this profile README.
-> Repositories: https://github.com/KVL3159H?tab=repositories
+These achievements represent project building, technical competition exposure, teamwork, coordination, and continued GitHub contribution.
+
+---
+
+# `root@kvl3159h:~# ./architecture --show`
+
+<div align="center">
+
+<img src="./assets/architecture-snapshots.svg" width="100%" alt="Architecture snapshots for featured projects"/>
+
+</div>
+
+The diagrams above show how I think about systems: **input → communication/data layer → processing → operational output**.
+
+---
+
+# `root@kvl3159h:~# ./tech_arsenal.sh --verified`
+
+<div align="center">
+
+<img src="./assets/tech-arsenal.svg" width="100%" alt="Professional technology arsenal"/>
+
+</div>
+
+I keep this section limited to technologies I have used in projects rather than listing tools only for appearance.
+
+---
+
+# `root@kvl3159h:~# cat currently_learning.yml`
+
+```yaml
+currently_learning:
+  - Docker & containerized development
+  - CI/CD and GitHub Actions
+  - System design fundamentals
+  - Cloud deployment fundamentals
+  - Backend/API architecture
+  - Testing and production hardening
+  - AI/LLM integration patterns
+
+goal:
+  "Move from working prototypes to reliable, deployable engineering systems."
 ```
 
 ---
 
-# `root@kvl3159h:~# cat build_queue.txt`
-
-```text
-[01] Smart emergency traffic systems ............... RUNNING
-[02] AI-assisted applications ....................... RUNNING
-[03] IoT + sensor integration ....................... RUNNING
-[04] Full-stack platforms ........................... RUNNING
-[05] Open-source contributions ...................... QUEUED
-[06] Better testing + CI/CD ......................... QUEUED
-[07] Stronger system architecture ................... QUEUED
-[08] Next ambitious project ......................... UNKNOWN
-```
-
----
-
-# `root@kvl3159h:~# cat philosophy.cpp`
-
-```cpp
-#include <life.h>
-
-int main() {
-
-    while (alive()) {
-
-        learn();
-        build();
-        test();
-
-        if (broken()) {
-            debug();
-            fix();
-        }
-
-        improve();
-        ship();
-    }
-
-    return 0;
-}
-```
-
----
-
-# `root@kvl3159h:~# cat rules.conf`
+# `root@kvl3159h:~# cat engineering_principles.conf`
 
 ```ini
-[developer]
-curiosity=true
-consistency=true
-documentation=true
-continuous_learning=true
-
-[project]
+[build]
 solve_real_problem=true
-clean_structure=true
-test_before_ship=true
-never_stop_improving=true
+prototype_fast=true
+document_clearly=true
 
-[system]
-fear_of_failure=false
-next_project=always
+[quality]
+test_before_ship=true
+security_matters=true
+fail_safe_when_needed=true
+
+[growth]
+learn_continuously=true
+accept_feedback=true
+open_source=expanding
+
+[next]
+project=always
 ```
 
 ---
 
-# `root@kvl3159h:~# connect --user KVL3159H`
+# `root@kvl3159h:~# connect`
 
-<p align="center">
-<a href="https://github.com/KVL3159H">
-<img src="https://img.shields.io/badge/GITHUB-KVL3159H-D90429?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+I am interested in collaboration around:
+
+- Full-stack applications
+- AI-enabled software
+- IoT and embedded systems
+- Smart-city / emergency-response systems
+- Engineering prototypes
+- Open-source project improvements
+
+**GitHub:** [@KVL3159H](https://github.com/KVL3159H)
 
 ---
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   > There is no final build.                                 │
-│   > There is only the next version.                          │
-│                                                              │
-│   STATUS : ONLINE                                            │
-│   MODE   : BUILD                                             │
-│   NEXT   : ./project                                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+> BRANDING IS USEFUL.
+> WORKING SYSTEMS ARE BETTER.
+> PROOF IS BEST.
+
+STATUS : ONLINE
+MODE   : BUILD
+NEXT   : ./project
 ```
 
 <img src="./assets/terminal-footer.svg" width="100%" alt="End of transmission"/>
