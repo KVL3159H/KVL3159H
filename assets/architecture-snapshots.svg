@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="545" viewBox="0 0 1200 545">
+<rect width="1200" height="545" fill="#ffffff"/>
+<style>
+.h{font:700 20px 'Segoe UI',Arial,sans-serif;fill:#d90429}
+.tt{font:700 15px 'Segoe UI',Arial,sans-serif;fill:#24292f}
+.st{font:500 13px 'Segoe UI',Arial,sans-serif;fill:#57606a}
+.box{fill:#ffffff;stroke:#d90429;stroke-width:2}
+.arrow{stroke:#d90429;stroke-width:2;fill:none;marker-end:url(#a)}
+</style>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#d90429"/></marker></defs>
+<text x="30" y="36" class="h">ARCHITECTURE SNAPSHOTS // SYSTEM THINKING</text>
+<line x1="30" y1="50" x2="1170" y2="50" stroke="#d90429" stroke-width="2"/>
+
+<text x="30" y="90" class="h">01 // AmbulanceLaneFree</text>
+<g transform="translate(30,108)">
+<rect class="box" width="205" height="72" rx="12"/><text x="102" y="30" text-anchor="middle" class="tt">Android GPS</text><text x="102" y="52" text-anchor="middle" class="st">driver telemetry</text>
+<path class="arrow" d="M220 36 H285"/>
+<rect class="box" x="300" width="205" height="72" rx="12"/><text x="402" y="30" text-anchor="middle" class="tt">MQTT Link</text><text x="402" y="52" text-anchor="middle" class="st">validated messages</text>
+<path class="arrow" d="M520 36 H585"/>
+<rect class="box" x="600" width="205" height="72" rx="12"/><text x="702" y="30" text-anchor="middle" class="tt">Raspberry Pi</text><text x="702" y="52" text-anchor="middle" class="st">priority + safety FSM</text>
+<path class="arrow" d="M820 36 H885"/>
+<rect class="box" x="900" width="240" height="72" rx="12"/><text x="1020" y="30" text-anchor="middle" class="tt">Junction Control</text><text x="1020" y="52" text-anchor="middle" class="st">safe signal transitions</text>
+</g>
+
+<text x="30" y="235" class="h">02 // 360 Waste Management</text>
+<g transform="translate(30,253)">
+<rect class="box" width="230" height="72" rx="12"/><text x="115" y="30" text-anchor="middle" class="tt">Multi-Role UI</text><text x="115" y="52" text-anchor="middle" class="st">5 dashboard roles</text>
+<path class="arrow" d="M245 36 H310"/>
+<rect class="box" x="325" width="205" height="72" rx="12"/><text x="427" y="30" text-anchor="middle" class="tt">React + Router</text><text x="427" y="52" text-anchor="middle" class="st">protected flows</text>
+<path class="arrow" d="M545 36 H610"/>
+<rect class="box" x="625" width="205" height="72" rx="12"/><text x="727" y="30" text-anchor="middle" class="tt">Firebase</text><text x="727" y="52" text-anchor="middle" class="st">auth + data</text>
+<path class="arrow" d="M845 36 H910"/>
+<rect class="box" x="925" width="215" height="72" rx="12"/><text x="1032" y="30" text-anchor="middle" class="tt">AI + Maps</text><text x="1032" y="52" text-anchor="middle" class="st">Gemini + Leaflet</text>
+</g>
+
+<text x="30" y="380" class="h">03 // Waste-to-Energy</text>
+<g transform="translate(30,398)">
+<rect class="box" width="230" height="72" rx="12"/><text x="115" y="30" text-anchor="middle" class="tt">Sensors / AI Input</text><text x="115" y="52" text-anchor="middle" class="st">telemetry + classification</text>
+<path class="arrow" d="M245 36 H310"/>
+<rect class="box" x="325" width="205" height="72" rx="12"/><text x="427" y="30" text-anchor="middle" class="tt">Firebase RTDB</text><text x="427" y="52" text-anchor="middle" class="st">live data stream</text>
+<path class="arrow" d="M545 36 H610"/>
+<rect class="box" x="625" width="205" height="72" rx="12"/><text x="727" y="30" text-anchor="middle" class="tt">React Dashboard</text><text x="727" y="52" text-anchor="middle" class="st">operational views</text>
+<path class="arrow" d="M845 36 H910"/>
+<rect class="box" x="925" width="215" height="72" rx="12"/><text x="1032" y="30" text-anchor="middle" class="tt">Analytics + Alerts</text><text x="1032" y="52" text-anchor="middle" class="st">trends • actions</text>
+</g>
+</svg>
