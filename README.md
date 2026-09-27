@@ -1,90 +1,186 @@
 <div align="center">
 
-# KATHIRVEL G
-### *Engineering ideas into real systems*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=ffffff&text=KATHIRVEL%20G&fontColor=d90429&fontSize=45&fontAlignY=45&desc=%5B%20SYSTEM%20ONLINE%20%5D%20%20%7C%20%20AI%20%2B%20IoT%20%2B%20FULL%20STACK&descAlignY=72&descSize=16&animation=fadeIn" width="100%" alt="KATHIRVEL G"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=222222&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AI+%26+IoT+Project+Builder;Final-Year+Engineering+Student;Creating+Smart+and+Meaningful+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=700&color=D90429&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+KATHIRVEL_G;%24+status;%3E+BUILDING+SYSTEMS+THAT+MATTER;%24+mission;%3E+LEARN+%7C+BUILD+%7C+BREAK+%7C+FIX+%7C+REPEAT;%24+next;%3E+INITIALIZING+NEXT+PROJECT..." alt="Terminal typing animation"/>
 
-<br>
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KVL3159H&color=lightgrey&style=flat-square)](https://github.com/KVL3159H)
-[![Followers](https://img.shields.io/github/followers/KVL3159H?style=flat-square&logo=github&logoColor=222222&labelColor=ffffff&color=f3f3f3)](https://github.com/KVL3159H?tab=followers)
-[![Stars](https://img.shields.io/github/stars/KVL3159H?style=flat-square&logo=github&logoColor=222222&labelColor=ffffff&color=f3f3f3)](https://github.com/KVL3159H)
+[![Profile Views](https://komarev.com/ghpvc/?username=KVL3159H&style=for-the-badge&color=D90429&label=PROFILE+SCANS)](https://github.com/KVL3159H)
+[![Followers](https://img.shields.io/github/followers/KVL3159H?style=for-the-badge&label=FOLLOWERS&labelColor=D90429&color=ffffff&logo=github&logoColor=ffffff)](https://github.com/KVL3159H?tab=followers)
+[![Stars](https://img.shields.io/github/stars/KVL3159H?style=for-the-badge&label=STARS&labelColor=D90429&color=ffffff&logo=github&logoColor=ffffff)](https://github.com/KVL3159H)
 
 </div>
 
 ---
 
-## ✨ About Me
+# `root@kvl3159h:~# boot --profile`
 
-I’m **Kathirvel G**, a final-year engineering student who enjoys building projects that connect **software, AI, IoT, automation, and real-world problem solving**.
+```text
+[BOOT] KVL Developer Environment
+[ OK ] Loading problem-solving engine
+[ OK ] Loading full-stack toolkit
+[ OK ] Loading AI modules
+[ OK ] Loading IoT / embedded interface
+[ OK ] Loading project architecture
+[ OK ] Loading curiosity
+[ OK ] Loading persistence
+[ !! ] Coffee level below recommended threshold
+[ OK ] Fallback mode enabled
 
-I like creating work that feels:
+USER      : KATHIRVEL G
+HANDLE    : KVL3159H
+STATUS    : ONLINE
+MODE      : BUILD
+ACCESS    : OPEN TO COLLABORATION
+UPTIME    : CONTINUOUS LEARNING
 
-- **useful**
-- **clean**
-- **practical**
-- **professional**
-- **impactful**
-
-For me, engineering is not only about code — it is about turning an idea into something that can genuinely help people.
+> SYSTEM READY
+```
 
 ---
 
-## 🎬 Current Focus
+# `root@kvl3159h:~# whoami`
 
-- Building **real-world portfolio projects**
-- Improving **full-stack development**
-- Exploring **AI-powered applications**
-- Working on **IoT + embedded systems**
-- Strengthening **GitHub, project quality, and professional presence**
+```yaml
+name: "Kathirvel G"
+username: "KVL3159H"
+role: "Developer | Project Builder"
+location: "India"
+
+focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Internet of Things
+  - Embedded Systems
+  - Real-Time Applications
+  - Automation
+  - Engineering Prototypes
+
+mission: >
+  Convert ideas into systems that solve practical problems.
+```
 
 ---
 
-## 🚀 Featured Projects
+# `root@kvl3159h:~# cat mission.log`
+
+```text
+╔════════════════════════════════════════════════════════════════╗
+║                     CURRENT OBJECTIVE                          ║
+║                                                                ║
+║        BUILD → TEST → IMPROVE → SHIP → LEARN → REPEAT         ║
+╚════════════════════════════════════════════════════════════════╝
+
+FULL STACK          █████████░░  ACTIVE
+AI / ML             ████████░░░  ACTIVE
+IoT / EMBEDDED      ████████░░░  ACTIVE
+SYSTEM DESIGN       ███████░░░░  LOADING
+OPEN SOURCE         ███████░░░░  EXPANDING
+DOCUMENTATION       █████████░░  ACTIVE
+PROBLEM SOLVING     ████████░░░  ACTIVE
+
+NEXT CHECKPOINT:
+> Build stronger systems.
+> Write cleaner code.
+> Ship better projects.
+> Contribute more.
+```
+
+---
+
+# `root@kvl3159h:~# ls ./featured-projects`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚑 [AmbulanceLaneFree](https://github.com/KVL3159H/AmbulanceLaneFree)
-A smart emergency-priority traffic project focused on improving ambulance movement through intelligent control logic and system integration.
+
+```text
+TYPE    : Smart Emergency System
+STACK   : Python / Android / IoT
+STATUS  : ACTIVE
+MISSION : Emergency traffic priority
+```
+
+Smart emergency-priority traffic project focused on ambulance movement, intelligent junction control, telemetry, and system integration.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ♻️ [360 Waste Management](https://github.com/KVL3159H/360-waste-management)
-A multi-role smart waste-management platform with dashboards, analytics, QR workflows, and operational visibility.
+
+```text
+TYPE    : Smart Waste Platform
+STACK   : React / TypeScript / Firebase
+STATUS  : ACTIVE
+MISSION : Data-driven waste management
+```
+
+Role-based waste-management platform with dashboards, QR workflows, analytics, mapping, and AI-assisted features.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ [Waste-to-Energy](https://github.com/KVL3159H/Waste-to-Energy)
-A monitoring dashboard for waste-to-energy systems featuring telemetry, analytics, alerts, and environmental insights.
+
+```text
+TYPE    : IoT Monitoring Dashboard
+STACK   : React / Firebase / Analytics
+STATUS  : ACTIVE
+MISSION : Waste → useful energy insights
+```
+
+Telemetry and analytics dashboard for monitoring waste-to-energy systems, environmental metrics, alerts, and operational data.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 [earth-growth-garden-main](https://github.com/KVL3159H/earth-growth-garden-main)
-An interactive digital growth experience that visualizes participation and shared progress in a creative way.
+
+```text
+TYPE    : Real-Time Web Experience
+STACK   : React / Socket.IO / Express
+STATUS  : EXPERIMENT
+MISSION : Visualize collective growth
+```
+
+Interactive digital garden experiment using real-time communication and visual progress.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 [RESEARCH-PAPER-SUBMISSION---REVIEW-SYSTEM](https://github.com/KVL3159H/RESEARCH-PAPER-SUBMISSION---REVIEW-SYSTEM)
-An academic workflow system for authors, reviewers, and editors with a structured submission and review flow.
+### 📄 [Research Paper Review System](https://github.com/KVL3159H/RESEARCH-PAPER-SUBMISSION---REVIEW-SYSTEM)
+
+```text
+TYPE    : Academic Workflow System
+STACK   : Web / SQL
+STATUS  : BUILT
+MISSION : Simplify peer-review workflow
+```
+
+Submission and peer-review workflow for authors, reviewers, and editors.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⏳ [squid-game-countdown-clocker](https://github.com/KVL3159H/squid-game-countdown-clocker)
-A cinematic countdown experience designed with immersive visual timing and event-focused presentation.
+### ⏳ [Squid Game Countdown](https://github.com/KVL3159H/squid-game-countdown-clocker)
+
+```text
+TYPE    : Cinematic Event UI
+STACK   : Next.js / React / TypeScript
+STATUS  : BUILT
+MISSION : Immersive countdown experience
+```
+
+Full-screen cinematic countdown interface for CTF and event environments.
 
 </td>
 </tr>
@@ -92,92 +188,173 @@ A cinematic countdown experience designed with immersive visual timing and event
 
 ---
 
-## 🛠️ Tech Stack
+# `root@kvl3159h:~# ./tech_arsenal.sh`
 
-### Languages
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6)
+### `[ LANGUAGES ]`
 
-### Frameworks & Platforms
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+<p>
+<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=D90429"/>
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717)
-![VS Code](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Arduino](https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Raspberry%20Pi](https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+### `[ FRONTEND ]`
+
+<p>
+<img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=D90429"/>
+</p>
+
+### `[ BACKEND / DATA ]`
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=D90429"/>
+</p>
+
+### `[ HARDWARE / IoT ]`
+
+<p>
+<img src="https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberrypi&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/ESP32-ffffff?style=for-the-badge&logo=espressif&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/MQTT-ffffff?style=for-the-badge&logo=eclipsemosquitto&logoColor=D90429"/>
+</p>
+
+### `[ TOOLS ]`
+
+<p>
+<img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=D90429"/>
+<img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=D90429"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# `root@kvl3159h:~# github --analytics`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KVL3159H&show_icons=true&theme=default&hide_border=true&title_color=222222&text_color=444444&icon_color=666666&bg_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVL3159H&layout=compact&theme=default&hide_border=true&title_color=222222&text_color=444444&bg_color=ffffff" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=KVL3159H&show_icons=true&hide_border=true&bg_color=ffffff&title_color=d90429&text_color=24292f&icon_color=d90429&ring_color=d90429" alt="GitHub stats"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVL3159H&layout=compact&hide_border=true&bg_color=ffffff&title_color=d90429&text_color=24292f" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=KVL3159H&theme=default&hide_border=true&background=FFFFFF&ring=666666&fire=888888&currStreakLabel=222222&sideNums=444444&currStreakNum=222222&dates=777777&sideLabels=444444" />
+<img src="https://streak-stats.demolab.com?user=KVL3159H&hide_border=true&background=FFFFFF&ring=D90429&fire=D90429&currStreakLabel=D90429&sideNums=24292F&currStreakNum=D90429&dates=6E7781&sideLabels=24292F" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 🏆 Highlights
+# `root@kvl3159h:~# ./activity --live`
 
-- Building multiple **project-based repositories**
-- Growing a more **professional GitHub profile**
-- Improving **documentation, structure, and contribution quality**
-- Working toward stronger **engineering, AI, and full-stack skills**
-- Focused on **real learning through real building**
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KVL3159H&bg_color=ffffff&color=d90429&line=d90429&point=24292f&area=true&area_color=ffd6dc&hide_border=true" width="96%" alt="GitHub activity graph"/>
 
-## 🌍 What I Want My Work To Show
-
-I want my profile to reflect:
-
-- **discipline**
-- **creativity**
-- **problem-solving**
-- **continuous growth**
-- **real-world engineering mindset**
+</div>
 
 ---
 
-## 🤝 Open To
+# `root@kvl3159h:~# cat build_queue.txt`
 
-- Collaboration on student and technical projects
-- Full-stack and AI-based project work
-- IoT and smart-system ideas
-- Learning opportunities and development-focused communities
+```text
+[01] Smart emergency traffic systems ............... RUNNING
+[02] AI-assisted applications ....................... RUNNING
+[03] IoT + sensor integration ....................... RUNNING
+[04] Full-stack platforms ........................... RUNNING
+[05] Open-source contributions ...................... QUEUED
+[06] Better testing + CI/CD ......................... QUEUED
+[07] Stronger system architecture ................... QUEUED
+[08] Next ambitious project ......................... UNKNOWN
+```
 
 ---
 
-## 📌 Profile Links
+# `root@kvl3159h:~# cat philosophy.cpp`
 
-- **GitHub:** [github.com/KVL3159H](https://github.com/KVL3159H)
+```cpp
+#include <life.h>
+
+int main() {
+
+    while (alive()) {
+
+        learn();
+        build();
+        test();
+
+        if (broken()) {
+            debug();
+            fix();
+        }
+
+        improve();
+        ship();
+    }
+
+    return 0;
+}
+```
+
+---
+
+# `root@kvl3159h:~# cat rules.conf`
+
+```ini
+[developer]
+curiosity=true
+consistency=true
+documentation=true
+continuous_learning=true
+
+[project]
+solve_real_problem=true
+clean_structure=true
+test_before_ship=true
+never_stop_improving=true
+
+[system]
+fear_of_failure=false
+next_project=always
+```
+
+---
+
+# `root@kvl3159h:~# connect --user KVL3159H`
+
+<p align="center">
+<a href="https://github.com/KVL3159H">
+<img src="https://img.shields.io/badge/GITHUB-KVL3159H-D90429?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-## 🎞️ Final Note
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   > There is no final build.                                 │
+│   > There is only the next version.                          │
+│                                                              │
+│   STATUS : ONLINE                                            │
+│   MODE   : BUILD                                             │
+│   NEXT   : ./project                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-*“Every strong system starts as a small idea.  
-With patience, effort, and consistency, it becomes something real.”*
-
-### Thanks for visiting my profile
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=ffffff&text=%3E_%20END%20OF%20TRANSMISSION&fontColor=d90429&fontSize=18&animation=fadeIn" width="100%" alt="End of transmission"/>
 
 </div>
