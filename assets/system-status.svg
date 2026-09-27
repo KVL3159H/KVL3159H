@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <rect width="1200" height="250" fill="#ffffff"/>
+  <text x="36" y="42" font-family="monospace" font-size="22" font-weight="700" fill="#d90429">github --system-status</text>
+
+  <g font-family="monospace">
+    <rect x="36" y="66" width="255" height="140" rx="14" fill="#ffffff" stroke="#d90429" stroke-width="2"/>
+    <text x="58" y="102" font-size="16" fill="#57606a">PRIMARY MODE</text>
+    <text x="58" y="143" font-size="28" font-weight="700" fill="#1f2328">BUILD</text>
+    <text x="58" y="178" font-size="15" fill="#d90429">status: ACTIVE</text>
+
+    <rect x="315" y="66" width="255" height="140" rx="14" fill="#ffffff" stroke="#d90429" stroke-width="2"/>
+    <text x="337" y="102" font-size="16" fill="#57606a">FOCUS</text>
+    <text x="337" y="137" font-size="22" font-weight="700" fill="#1f2328">AI + IoT</text>
+    <text x="337" y="172" font-size="18" fill="#d90429">FULL STACK</text>
+
+    <rect x="594" y="66" width="255" height="140" rx="14" fill="#ffffff" stroke="#d90429" stroke-width="2"/>
+    <text x="616" y="102" font-size="16" fill="#57606a">WORKFLOW</text>
+    <text x="616" y="138" font-size="20" font-weight="700" fill="#1f2328">TEST → FIX</text>
+    <text x="616" y="172" font-size="18" fill="#d90429">→ IMPROVE → SHIP</text>
+
+    <rect x="873" y="66" width="291" height="140" rx="14" fill="#ffffff" stroke="#d90429" stroke-width="2"/>
+    <text x="895" y="102" font-size="16" fill="#57606a">CONNECTION</text>
+    <text x="895" y="139" font-size="20" font-weight="700" fill="#1f2328">OPEN SOURCE</text>
+    <text x="895" y="174" font-size="17" fill="#d90429">collaboration: ENABLED</text>
+  </g>
+</svg>
