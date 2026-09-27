@@ -170,12 +170,14 @@ BUILT      : Submission + reviewer assignment + scoring + editorial decisions.
 PROOF      : Author → Reviewer → Editor workflow
 ```
 
-### ⏳ [Squid Game Countdown](https://github.com/KVL3159H/squid-game-countdown-clocker)
+### ⏳ [Squid Game Countdown](https://squid-game-countdown-clocker.onrender.com/)
 
 ```text
 TYPE       : Cinematic Event / CTF Interface
 STACK      : Next.js • React • TypeScript
 BUILT      : Fullscreen countdown + rotating visuals + warning states + danger mode.
+LIVE       : https://squid-game-countdown-clocker.onrender.com/
+SOURCE     : https://github.com/KVL3159H/squid-game-countdown-clocker
 PROOF      : 2-hour timer + 30 visual assets + cinematic final-phase behaviour
 ```
 
